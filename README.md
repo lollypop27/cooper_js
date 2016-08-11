@@ -1,1 +1,1 @@
-# cooper_js
+Craft Academy Cooper JS Challenge
